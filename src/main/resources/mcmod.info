@@ -1,0 +1,16 @@
+[
+{
+  "modid": "serveropennotify",
+  "name": "Server Open Notify",
+  "description": "Post notification to webhooks after a server loads world.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://aarsalmon.starfree.jp/",
+  "updateUrl": "",
+  "authorList": ["AAAR Salmon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
